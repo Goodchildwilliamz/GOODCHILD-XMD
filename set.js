@@ -9,7 +9,7 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
     : process.env.DATABASE_URL;
 module.exports = { session: process.env.SESSION_ID || 'timoth',
     PREFIXE: process.env.PREFIX || ".",
-    GITHUB : process.env.GITHUB|| 'https://github.com/Goodchildwilliamz/GOODCHILD XMD',
+    GITHUB : process.env.GITHUB|| 'https://github.com/Goodchildwilliamz/GOODCHILD-XMD',
     OWNER_NAME : process.env.OWNER_NAME || "goodchild williamz",
     NUMERO_OWNER : process.env.NUMERO_OWNER || "255763755563",  
               
@@ -32,7 +32,7 @@ module.exports = { session: process.env.SESSION_ID || 'timoth',
     GURL: process.env.GURL  || "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
     WEBSITE :process.env.GURL || "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
     CAPTION : process.env.CAPTION || "Goodchild williamz",
-    BOT : process.env.BOT_NAME || 'GOODCHILD XMD',
+    BOT : process.env.BOT_NAME || 'GOODCHILD-XMD',
     MODE: process.env.PUBLIC_MODE || "yes",              
     TIMEZONE: process.env.TIMEZONE || "Africa/Dar_Es_Salam", 
     PM_PERMIT: process.env.PM_PERMIT || 'no',
