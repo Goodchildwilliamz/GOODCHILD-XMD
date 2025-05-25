@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node control.js", 
     "timoth": "pm2 start control.js --attach --max-memory-restart 490M",
-    "timnasa": "pm2 start timnasa.js --attach",
+    "timnasa": "pm2 start goodchild.js --attach",
     "c": "tsc"
     },
   "keywords": [
