@@ -1,6 +1,6 @@
 
  {
-  "name": "TIMNASA-TMD",
+  "name": "GOODCHILD XMD",
   "version": "2.0.0",
   "description": "",
   "main": "control.js",
@@ -15,12 +15,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Timnasa-Md",
+    "Goodchild xmd",
     "whatsapp",
     "whatsapp-bot",
     "timothy"
    ],
-  "author": "timothtimnasa",
+  "author": "goodchild williamz",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
