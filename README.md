@@ -14,7 +14,7 @@
   <a href="https://github.com/Goodchildwilliamz/GOODCHILD-XMD"><img title="Author" src="https://img.shields.io/badge/GOODCHILD-XMD-black?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
-<p align="center">✨ `Introducing DRAXEN-Ai, a powerful and exciting bot designed to enhance your WhatsApp experience`. ✨</p>
+<p align="center">✨ `Introducing GOODCHILD-XMD, a powerful and exciting bot designed to enhance your WhatsApp experience`. ✨</p>
 
 <p align="center">
   <a aria-label="GOODCHILD-XMD is free to use" href="https://youtube.com/@abdallahsalim-f5u?si=PPyQy2qogiXA-PCG" target="_blank">
