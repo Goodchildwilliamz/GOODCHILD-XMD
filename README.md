@@ -1,191 +1,241 @@
-   ###  GOODCHILD WILLIAMZ 
-   
+# GOODCHILD-XMD
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐆𝐎𝐎𝐃𝐂𝐇𝐈𝐋𝐃+𝐌𝐃+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐆𝐎𝐎𝐃𝐂𝐇𝐈𝐋𝐃+𝐓𝐄𝐂𝐇;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝐆𝐎𝐎𝐃𝐂𝐇𝐈𝐋𝐃+𝐌𝐃;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐢𝐫𝐬𝐢𝐨𝐧+💥;2024+-+2025.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://files.catbox.moe/8spkl4.jpeg">
- <img alt="GOODCHILD-MD" height="300" src="https://files.catbox.moe/8spkl4.jpeg">
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐆𝐎𝐎𝐃𝐂𝐇𝐈𝐋+𝐌𝐃+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐆𝐎𝐎𝐃𝐂𝐇𝐈𝐋𝐃+𝐓𝐄𝐂𝐇;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝐆𝐎𝐎𝐃𝐂𝐇𝐈𝐋𝐃+𝐌𝐃;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐞𝐫𝐬𝐢𝐨𝐧+💥;2024+-+2025.)](https://git.io/typing-svg)
-
-
-
-  </h1> 
-<p align="center">l introduce <b>GOODCHILD-XMD</b>, a powerful simple WhatsApp bot </p>
-
+<p align="center">
+  <a href="https://youtu.be/F3Cgi8ied1o">
+    <img alt="GOODCHILD-XMD" height="300" src="https://files.catbox.moe/8spkl4.jpeg">
+  </a>
 </p>
-  <p align="center">
-<a href="https://github.com/Goodchildwilliamz?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Goodchildwilliamz?label=Followers&style=social"></a>
-<a href="https://github.com/goodchildwilliamz/leonard-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Goodchildwilliamz/goodchild-md?&style=social"></a>
-<a href="https://github.com/goodchildwilliamz/goodchild-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/goodchildwilliamz/goodchild-md?style=social"></a>
-<a href="https://github.com/goodchildwilliamz/goodchild-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/goodchildwilliamz/goodchild-md?label=Watching&style=social"></a>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=910&height=100&lines=THIS+IS+GOODCHILD-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+WILLIAMZ;PUBLIC+RELEASED+DATE;16/04/2025" alt="Typing SVG" />
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/Goodchildwilliamz/GOODCHILD-XMD"><img title="Author" src="https://img.shields.io/badge/GOODCHILD-XMD-black?style=for-the-badge&logo=WhatsApp"></a>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{goodchildwilliamz}/count.svg" alt="goodchild-xmd :: Visitor's Count"/></p>
 
+<p align="center">✨ `Introducing DRAXEN-Ai, a powerful and exciting bot designed to enhance your WhatsApp experience`. ✨</p>
+
+<p align="center">
+  <a aria-label="GOODCHILD-XMD is free to use" href="https://youtube.com/@abdallahsalim-f5u?si=PPyQy2qogiXA-PCG" target="_blank">
+    <img alt="1K Subscribers" src="https://img.shields.io/badge/1K%20Subscribers-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+  </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{GOODCHILD-XMD}/count.svg" alt="GOODCHILD-XMD Visitor's Count" /></p>
+
+<p align="center">
+  <a href="https://chat.whatsapp.com/IdRXU9UcO8K50GPelOyhxh"><img src="https://img.shields.io/badge/WhatsApp Public Group-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://youtube.com/@abdallahsalim-f5u?si=PPyQy2qogiXA-PCG"><img src="https://img.shields.io/badge/Subscribe on YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://youtube.com/@abdallahsalim-f5u?si=PPyQy2qogiXA-PCG"><img src="https://img.shields.io/badge/Follow WhatsApp Channel-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://wa.me/message/255763755563"><img src="https://img.shields.io/badge/WhatsApp Me Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <a href="#"><img title="Followers" src="https://img.shields.io/badge/Followers-10k-FF5733?style=for-the-badge"></a>
+  <a href="#"><img title="Stars" src="https://img.shields.io/badge/Stars-500-1E90FF?style=for-the-badge"></a>
+  <a href="#"><img title="Forks" src="https://img.shields.io/badge/Forks-250-FF1493?style=for-the-badge"></a>
+  <a href="#"><img title="Watchers" src="https://img.shields.io/badge/Watchers-100-4B0082?style=for-the-badge"></a>
+  <a href="#"><img title="Repo Size" src="https://img.shields.io/badge/Repo%20Size-5MB-32CD32?style=for-the-badge"></a>
+  <a href="#"><img title="Maintained?" src="https://img.shields.io/badge/Maintained%3F-yes-32CD32?style=for-the-badge"></a>
+</p>
+
+## ✨ _`GOODCHILD-XMD FEATURES`_ 🪶
+
+<div align="center">
+  <table style="border: 2px solid #4CAF50; border-radius: 10px; background-color: #f2f2f2; padding: 10px;">
+    <thead>
+      <tr>
+        <th style="padding: 10px; background-color: #4CAF50; color: white; border-radius: 10px;">✨ Feature</th>
+        <th style="padding: 10px; background-color: #4CAF50; color: white; border-radius: 10px;">📝 Description</th>
+        <th style="padding: 10px; background-color: #4CAF50; color: white; border-radius: 10px;">✅ Available</th>
+        <th style="padding: 10px; background-color: #4CAF50; color: white; border-radius: 10px;">📌 Version</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Multi-Device Support</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Operate the bot on multiple devices simultaneously</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">✅</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">1.0</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">AI Chat Bot</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Bot can reply to questions</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">✅</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">1.0</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Downloader Commands</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Download gpt types of content from the internet</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">✅</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">1.0</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Hidden NSFW Commands</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Access a range of NSFW commands hidden in the bot</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">✅</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">1.0</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Logo Commands</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Generate logos using specialized commands</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">✅</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">1.0</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Anime Commands</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Explore anime-related commands and features</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">✅</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">1.0</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Bot Control Commands</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Control the bot without opening the deploy platform</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">✅</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">1.0</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Various Games</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Enjoy a variety of games within the bot</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">✅</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">1.0</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Audio/Video Editor Commands</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Edit audio and video files with bot commands</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">✅</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">1.0</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">Auto/View Once Commands</td>
+        <td style="padding: 10px;">Remove photos and videos from lock</td>
+        <td style="padding: 10px; text-align: center;">✅</td>
+        <td style="padding: 10px; text-align: center;">1.0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div align="center">
+  <a><img src='https://i.imgur.com/LyHic3i.gif' alt='Decorative Image'/></a>
+  <a><img src='https://i.imgur.com/LyHic3i.gif' alt='Decorative Image'/></a>
+</div>
+
+
+<div align="center">
+  <a href="https://youtu.be/3IsqF2IS060?si=o5ODlBuwVvRm-I5x" target="_blank">
+    <img src="https://files.catbox.moe/tmmvub.jpg" alt="How to Deploy GOODCHILD-XMD WhatsApp Bot" style="width: 300px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    <br>
+    <img src="https://img.shields.io/badge/Watch%20Now-YouTube-red?style=for-the-badge&logo=youtube" alt="Watch Now" style="margin-top: 8px;">
+  </a>
+</div>
+
+## 🚀 Setup Guide
+
+### 🛠 1. Fork This Repo
+
+<a href='https://github.com/Goodchildwilliamz/GOODCHILD-XMD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+
+### 🔑 2. Get Session ID via Pair Code
+
+<a href='https://goodchild-pair-code-deploy.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get Your Session ID-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
+### 🚀 3. Deploy to Heroku
+
+1. If you don't have a Heroku account, create one.
+    <br>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/Create Account-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+2. Deploy the bot.
+    ----------------
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
+
+<p align="left">
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Goodchildwilliamz/GOODCHILD-XMD-Ai/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-6971FF?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+
+### ☁️ 4. Deploy to Koyeb
+
+<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FDRAXEN-Ai%2FGOODCHILD-XMD&branch=main&name=malik-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=public&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_STATUS_SEEN%5D=true" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" width="300" height="100" alt="Deploy bot"/></a>
+
+<p align="center">
+  <a href="https://render.com/deploy?repo=https://github.com/Goodchildwilliamz/GOODCHILD">
+    <img src="https://img.shields.io/badge/Deploy%20to-Render-blue?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Render">
+  </a>
+</p>
 ---
 
+## 🦋 Developers
 
-</a>
-  <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
+<div align="center">
+  <a href="https://github.com/Goodchildwilliamz"><img src="[https://files.catbox.moe/tmmvub.jpg](https://files.catbox.moe/8spkl4.jpeg)" width="200" height="200" alt="Developer"></a>
+
+  **🦋⃟ᴠͥɪͣᴘͫ✮⃝GOODCHILD XMD𝄟⃝]**  
+  _Owner, Developer, Bug Fixer, Maintainer, Updates_
 </div>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/goodchildwilliamz/Goodchild-md"><b>Goodchild-xmd</b></a> Support Deploy On...
-</p>
+## 🚀 Key Features
 
 <p align="center">
-  <a href="https://github.com/goodchildwilliamz/Goodchild-xmd/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Goodchildwilliamz/?GOODCHILD-XMD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Group Management-orange?style=for-the-badge&logo=groupme" alt="Group Management">
+  <img src="https://img.shields.io/badge/Fun Commands-purple?style=for-the-badge&logo=funimation" alt="Fun Commands">
+  <img src="https://img.shields.io/badge/Customization-blue?style=for-the-badge&logo=customize" alt="Customization">
+  <img src="https://img.shields.io/badge/Security-red?style=for-the-badge&logo=security" alt="Security">
+  <img src="https://img.shields.io/badge/Multi-Language Support-green?style=for-the-badge&logo=language" alt="Multi-Language Support">
+  <img src="https://img.shields.io/badge/Auto-Responder-teal?style=for-the-badge&logo=reply" alt="Auto-Responder">
+  <img src="https://img.shields.io/badge/Analytics-pink?style=for-the-badge&logo=chart-bar" alt="Analytics">
+  <img src="https://img.shields.io/badge/Media Sharing-lightblue?style=for-the-badge&logo=share" alt="Media Sharing">
 </p>
 
+✨ **Group Management**:  
+Effortlessly manage your groups with powerful admin commands.
 
+🎉 **Fun Commands**:  
+Keep your group members engaged with a variety of fun commands like memes, jokes, and more.
 
-    
- 
- 
+🛠 **Customization**:  
+Personalize your bot experience with custom settings and features.
 
+🔐 **Security**:  
+Enjoy enhanced security features like anti-spam, anti-fake links, and more to keep your groups safe.
 
+🌐 **Multi-Language Support**:  
+Interact with the bot in multiple languages for a global experience.
+
+🤖 **Auto-Responder**:  
+Set up auto-responses to automate replies when you're busy.
+
+📊 **Analytics**:  
+Track your group's activity with detailed analytics and usage statistics.
+
+🖼 **Media Sharing**:  
+Easily share images, videos, GIFs, and more with your contacts or groups.
 
 ---
 
+## ⚠️ Reminder
 
+- This bot has no issues on the WhatsApp side, and it works perfectly on Heroku—100% safe and not banned. Use it for your WhatsApp activities and other things; it will help you a lot.
+.
 
+---
 
+<h1 align="center">✨ Keep Supporting ✨</h1>
 
-## HOW TO DEPLOY GOODCHILD XMD
+---
 
+## 📞 Contact
 
-
-## 1.FIRST STEP 
-## Fork Goodchild Md Repo
-👇 👇  👇 👇
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
- 
-- <a href="https://github.com/goodchildwilliamz/GOODCHILD-XMD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-star✨ my repo if you like this bot🤖
-
-
-## 2.SECOND STEP 
-
-
- GET SESSION ID BY
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+𝕋ℍ𝕀𝕊+𝕀𝕊+𝕊𝔼𝕊𝕊𝕀𝕆ℕ+𝕊𝔼𝕋𝔼😎)](https://git.io/typing-svg)
-
-
-### QR SITE
-
-
-
-- <a href="https://Goodchild-session.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-### SESSION SITE
-
-
-- <a href="https://Goodchild-session.onrender.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-
-
-
-
-### 3.THIRD STEP 
-1. If You Don't Have An Account On Heroku**
-
-
-
-   <br>
-    <a 
-- <a align="center"><a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-darkblue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-### 2. If You Have Account On Heroku**👇 👇 👇
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
- 
-
-
-   <br>
-    - <a href='https://dashboard.heroku.com/new?template=https://github.com/goodchildwilliamz/GOODCHILD-XMD/tree/main' target="_darkblue"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
-
-
-### DEPLOY ON RENDER
-
-1. If you don't have an account in RENDER, create one and deploy.
-
-
-
-   <br>
-    <a href='https://dashboard.render.com/select-repo?type=web' target="_darkblue"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=render&logoColor=white'/></a>
-
-
-
-
-   ###
-
-CONTACT DEVELOPER ON WHATSAPP 
-
-<a href="https://wa.me/message/255763755563" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/goodchildd tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-
-  
- 
-<a href="https://whatsapp.com/channel/4" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ GOODCHILD_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-
-
-
-
-  ## License
-
-The WhatsApp Bot GOODCHILD MD is released under the [MIT License](https://opensource.org/licenses/MIT).
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Role+number-one; don't-trust+any one+🖐️😊;DEVELOPED+BY+GOODCHILD+TECH;RELEASED+DATE+01%2F10%2F2024." alt="Typing SVG" /></a>
-
-
-🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 GOODCHILD🍀_MD 🌟
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+GOODCHILD- XMD+MADE+IN+TANZANIA+🇹🇿♥️" alt="Typing SVG" /></a>
-
-## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ :
-
-GOODCHILD WILLIAMZ
-
-★UR FUTURE IS CREATED BY WHAT U DO TODAY NOT TOMORROW😎. ©
-     
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=keep+using+GOODCHILD+XMD😊" alt="Typing SVG" /></a>
-
-
-
-
-
-*KINGDOM*
-
-<table>
-  <tr>
-    <td>𝑲𝒊𝒏𝒈 𝐠𝐨𝐨𝐝𝐜𝐡𝐢𝐥𝐝👑</td></td>
-  </tr>
-  <tr>
-    <td><a href="https://wa.me/255763755563?"><img src="https://files.catbox.moe/8spkl4.jpeg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/"><img src="https://files.catbox.moe/8spkl4.jpeg" width="180"</td>
-  </tr>
-</table>
-
+<p align="left">
+  <a href="mailto:lopezfesto@gmail.com"><img title="Contact Developer" src="https://img.shields.io/badge/Email Developer-black?style=for-the-badge&logo=Gmail"></a>
+  <a href="https://wa.me/255763755563?text=Hi+𓆩ꨄ︎𓆪+Draxen+◆+Ai+𓆩ᥫ᭡𓆪...+I+need+some+help+in+GOODCHILD-XMD"><img title="WhatsApp Support" src="https://img.shields.io/badge/WhatsApp Developer-red?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-     
 
