@@ -141,7 +141,7 @@
 
 ### 🔑 2. Get Session ID via Pair Code
 
-<a href='https://goodchild-pair-code-deploy.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get Your Session ID-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://goodchild-xmd-pair-code.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get Your Session ID-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 ### 🚀 3. Deploy to Heroku
 
