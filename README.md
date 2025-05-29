@@ -155,11 +155,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 <p align="left">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Goodchildwilliamz/GOODCHILD-XMD-Ai/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-6971FF?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Goodchildwilliamz/GOODCHILD-XMD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-6971FF?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 ### ☁️ 4. Deploy to Koyeb
 
-<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FDRAXEN-Ai%2FGOODCHILD-XMD&branch=main&name=malik-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=public&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_STATUS_SEEN%5D=true" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" width="300" height="100" alt="Deploy bot"/></a>
+<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FGOODCHILD-XMD%2FGOODCHILD-XMD&branch=main&name=malik-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=public&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_STATUS_SEEN%5D=true" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" width="300" height="100" alt="Deploy bot"/></a>
 
 <p align="center">
   <a href="https://render.com/deploy?repo=https://github.com/Goodchildwilliamz/GOODCHILD">
