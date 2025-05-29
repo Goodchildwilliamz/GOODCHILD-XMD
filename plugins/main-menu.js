@@ -143,7 +143,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈╭─────────────·๏
 ┃◈┃• owner
 ┃◈┃• menu
-┃◈┃• menu2
+┃◈┃• goodchild
 ┃◈┃• vv
 ┃◈┃• allmenu
 ┃◈┃• repo
@@ -222,7 +222,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• blackbox
 ┃◈┃• luma
 ┃◈┃• dj 
-┃◈┃• draxen
+┃◈┃• william
 ┃◈┃• ai
 ┃◈┃• gpt4
 ┃◈┃• bing
