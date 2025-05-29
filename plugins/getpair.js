@@ -10,7 +10,7 @@ cmd({
     react: "✅",
     desc: "Pairing code",
     category: "download",
-    use: ".pair ++255763755XXX",
+    use: ".pair +255763755XXX",
     filename: __filename
 }, 
 async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
@@ -25,7 +25,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
 
         // Fetch pairing code
         //const fetch = require("node-fetch");
-        const response = await fetch(`https://goodchild-pair-code-2e87c8f59fda.herokuapp.com/pair?phone=${q}`);
+        const response = await fetch(`https://goodchild-xmd-pair-code.onrender.com-2e87c8f59fda.herokuapp.com/pair?phone=${q}`);
         const pair = await response.json();
 
         // Check for errors in response
