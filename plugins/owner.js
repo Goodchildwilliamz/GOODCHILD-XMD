@@ -30,14 +30,14 @@ async (conn, mek, m, { from }) => {
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
             image: { url: 'https://files.catbox.moe/tmmvub.jpg' }, // Image URL from your request
-            caption: `╭━━〔 *DRAXEN-Ai* 〕━━┈⊷
+            caption: `╭━━〔 *GOODCHILD-XMD* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
 ┃◈┃• *Number* ${ownerNumber}
 ┃◈┃• *WhatsApp*: https://whatsapp.com/channel/0029Vb4vbKF6xCSMEFopxc10
 ┃◈┃• *YouTube*: https://youtube.com/@abdallahsalim-f5u?si=PPyQy2qogiXA-PCG
-┃◈┃• *Tiktok*: https://www.tiktok.com/@dallas387
+┃◈┃• *Tiktok*: https://www.tiktok.com/@Goodchildwilliamz
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ GOODCHILD XMD 🤎`, // Display the owner's details
@@ -47,7 +47,7 @@ async (conn, mek, m, { from }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '0029Vb4vbKF6xCSMEFopxc10@newsletter',
-                    newsletterName: 'DRAXE Ai 🤎',
+                    newsletterName: 'GOODCHILD XMD🤎',
                     serverMessageId: 143
                 }            
             }
